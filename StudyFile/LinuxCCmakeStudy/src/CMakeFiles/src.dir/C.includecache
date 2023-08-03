@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/item.c
+stdio.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/stdio.h
+stdlib.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/stdlib.h
+item.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/item.h
+
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/item.h
+

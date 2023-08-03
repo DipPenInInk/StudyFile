@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+./src/base/base_typedef.h
+
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/func_array.c
+stdio.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/stdio.h
+stdlib.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/stdlib.h
+string.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/string.h
+math.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/math.h
+func_array.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/func_array.h
+
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/func_array.h
+
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/func_main.c
+stdio.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/stdio.h
+func_main.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/func_main.h
+
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/func_main.h
+
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/singal.c
+stdio.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/stdio.h
+stdlib.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/stdlib.h
+string.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/string.h
+math.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/math.h
+base_typedef.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/base_typedef.h
+signal.h
+/home/li/A001_item/VScode_Proj/C_code/B001_Cmake/LinuxCCmakeStudy/D001_Test/LinuxCCmakeStudy/src/function/func/signal.h
+

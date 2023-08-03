@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "item.h": "c",
+        "base_typedef.h": "c",
+        "stdio.h": "c",
+        "version_number.h": "c",
+        "string.h": "c",
+        "item_fun_list.h": "c",
+        "type_traits": "c",
+        "test.h": "c",
+        "function_main.h": "c",
+        "tmp_test_main.h": "c",
+        "func_main.h": "c",
+        "stdlib.h": "c",
+        "signal.h": "c"
+    }
+}

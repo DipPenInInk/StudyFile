@@ -1,0 +1,35 @@
+{
+    "version": "2.0.0",
+    "options": {
+        "cwd": "${workspaceFolder}/build"//相当于cd，进入某个文件夹
+    },
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "cmake",//task名称
+            "command":"cmake",//task所执行的命令
+            "args": [  //task所执行命令的参数
+                ".."
+            ]
+        },
+        {
+            "label": "make",//task名称
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "command":"make",//task所执行的命令
+            "args": [  //task所执行命令的参数
+            ]
+        },
+        {
+            "label": "build",//task名称
+            "dependsOrder": "sequence",//按照列出的顺序执行任务依赖
+            "dependsOn":[
+                "cmake",
+                "make"
+            ]
+        }
+    ]
+}
+

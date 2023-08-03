@@ -1,0 +1,2 @@
+/usr/bin/ar cq libsrc.a  CMakeFiles/src.dir/item.c.o
+/usr/bin/ranlib libsrc.a

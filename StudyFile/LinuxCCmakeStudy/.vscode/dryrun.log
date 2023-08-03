@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/C0000_temporary_proj'
+make: Leaving directory '/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/C0000_temporary_proj'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
