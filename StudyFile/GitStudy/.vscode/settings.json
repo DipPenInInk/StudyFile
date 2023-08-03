@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "Test_GENE640M_GYH_7M_2023020310": "c",
+        "item.h": "c",
+        "base_typedef.h": "c",
+        "stdio.h": "c",
+        "version_number.h": "c",
+        "stdlib.h": "c",
+        "cmath": "c",
+        "*.tcc": "c",
+        "unistd.h": "c"
+    }
+}
