@@ -1,2 +1,0 @@
-/usr/bin/ar cq libtmp_test.a  CMakeFiles/tmp_test.dir/tmp_test_main.c.o
-/usr/bin/ranlib libtmp_test.a

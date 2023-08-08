@@ -7,6 +7,12 @@
 #include"item.h"
 #include"base_typedef.h"
 #include"signal.h"
+
+#include"func_main.h"
+
+
+
+
 int main()
 {
     // int u2;
@@ -14,10 +20,11 @@ int main()
     printf("dvmdfkv,%s\n", __FUNCTION__);
     
 
+ 	func_main();
+	item_fun();
 
 
-
-    sianal_test();
+    // sianal_test();
     getchar();
     return 0;
 }

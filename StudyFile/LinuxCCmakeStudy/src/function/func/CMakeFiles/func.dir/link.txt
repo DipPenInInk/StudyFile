@@ -1,2 +1,0 @@
-/usr/bin/ar cq libfunc.a  CMakeFiles/func.dir/func_main.c.o CMakeFiles/func.dir/singal.c.o CMakeFiles/func.dir/func_array.c.o
-/usr/bin/ranlib libfunc.a
